@@ -1,11 +1,5 @@
 # Pandas Homework - Pandas, Pandas, Pandas
 
-## Background
-
-The data dive continues!
-
-Now, it's time to take what you've learned about Python Pandas and apply it to new situations. 
-
 ## Heroes of Pymoli
 
 ![Fantasy](Images/Fantasy.png)
